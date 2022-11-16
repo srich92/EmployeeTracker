@@ -11,12 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "console-table": "^0.1.2",
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
-    "inquirer": "^8.2.4",
-    "mysql2": "^2.1.0"
+    "inquirer": "^8.2.5",
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/srich92/EmployeeTracker.git"
